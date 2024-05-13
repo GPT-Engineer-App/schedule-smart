@@ -29,7 +29,7 @@ const Index = () => {
           size="md"
           width="100%"
         />
-        <Button onClick={handleAddTodo} colorScheme="blue" px={8}>
+        <Button onClick={handleAddTodo} colorScheme="green" px={8}>
           Add
         </Button>
         <List spacing={3} width="100%">
