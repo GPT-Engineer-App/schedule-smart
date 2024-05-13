@@ -21,7 +21,7 @@ const Index = () => {
   return (
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
-        <Heading mb={4}>Todo App</Heading>
+        <Heading mb={4}>Todo App Bro</Heading>
         <Input
           placeholder="Add a new task"
           value={input}
